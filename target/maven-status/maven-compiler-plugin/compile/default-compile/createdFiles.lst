@@ -1,6 +1,0 @@
-com\sgr\main\controller\CustomerController.class
-com\sgr\main\repository\CustomerRepository.class
-com\sgr\main\service\CustomerService.class
-com\sgr\main\Client.class
-com\sgr\main\entities\Customers.class
-com\sgr\main\controller\HelloController.class
