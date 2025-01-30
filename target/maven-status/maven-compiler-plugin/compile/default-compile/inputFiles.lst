@@ -1,2 +1,6 @@
-C:\Users\SAGARSCH\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootExample\src\main\java\com\sgr\main\Client.java
-C:\Users\SAGARSCH\Documents\workspace-spring-tool-suite-4-4.26.0.RELEASE\SpringBootExample\src\main\java\com\sgr\controller\HelloController.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\Client.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\controller\CustomerController.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\controller\HelloController.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\entities\Customers.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\service\CustomerService.java
+C:\Users\SAGARSCH\git\SpringBootExample\SpringBootExample\src\main\java\com\sgr\main\repository\CustomerRepository.java
